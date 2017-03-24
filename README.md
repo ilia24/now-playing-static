@@ -1,4 +1,3 @@
 # Now Playing
 
-For full assignment instructions, visit the following link:
-https://alexa.bitmaker.co/cohorts/67/assignments/2049/latest
+This is a project where i have to take a mobile site, and scale it up to work on various display sizes
