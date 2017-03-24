@@ -266,4 +266,12 @@ figure {
   main article:first-child .movie-overview {
     display: block;
   }
+  main .movie {
+    display: block;
+    width: 33.3333333%;
+    float: left;
+  }
+  main article:first-child {
+    width: 100%;
+  }
 }
