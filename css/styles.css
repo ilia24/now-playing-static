@@ -199,14 +199,28 @@ figure {
 @media (min-width: 768px) {
   .site-nav-item {
     float: none;
+    font-size: 0.79em;
     width: 100%;
+    margin-bottom: 18%;
     padding: 0.7em 0.5em 0.7em 0.5em;
   }
+  .site-nav-list {
+    margin-top: 105%;
+  }
   .site-nav {
-    width: 8%;
+    width: 10%;
     height: 100%;
   }
+  .site-logo {
+    z-index: 101;
+    top: 0.7%;
+    left: 1%;
+    width: 8.2%;
+  }
   main {
-    margin-left: 8%;
+    margin-left: 10%;
+  }
+  .site-nav-item > .fa {
+      font-size: 2.25rem;
   }
 }
