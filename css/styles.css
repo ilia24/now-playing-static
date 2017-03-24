@@ -50,8 +50,8 @@ figure {
   position: fixed;
   top: 1rem;
   left: 1rem;
-  width: 100px;
-  height: 100px;
+  width: 80px;
+  height: 80px;
   margin: 0;
   z-index: 100;
 }
@@ -76,16 +76,16 @@ figure {
 .site-nav-item {
   float: left;
   width: 20%;
-  height: 90px;
+  height: 60px;
   padding: 0.75em;
   font-family: "Montserrat", "Source Code Pro", "Helvetica Neue", Helvetica, Arial, sans-serif;
-  font-size: 1em;
+  font-size: 0.6em;
   text-align: center;
   text-transform: uppercase;
 }
 
 .site-nav-item > .fa {
-  font-size: 3rem;
+  font-size: 1.75rem;
 }
 
 .site-nav-item:hover {
